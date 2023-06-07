@@ -180,7 +180,7 @@ Publish the website in the given URL.
                                 <div class="peopleimage">
                                 <img src="./img/yogi.png" width="130" height="145" alt="people3 image">
                                 </div>
-                                <div class="peoplename">Mr.yogeshwaran</div>
+                                <div class="peoplename">Mr.Yogeshwar</div>
                                 <div class="peoplepos">CHRO</div>
                             </div>
                         <div class="peoplecontent">  
